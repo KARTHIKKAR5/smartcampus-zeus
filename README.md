@@ -52,7 +52,7 @@ A **Peer-to-Peer Campus Delivery & Logistics Engine** that connects Students (Bu
 | Member 1 | System Architecture + Backend Logic |
 | Member 2 | Algorithm & Optimization Engineer |
 | Member 3 | Frontend / Demo + Slides |
-| Member 2 | Documentation + Integration + QA Engineer |
+| Member 4| Documentation + Integration + QA Engineer |
 
 
 ---
