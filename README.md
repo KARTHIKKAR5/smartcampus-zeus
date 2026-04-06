@@ -70,6 +70,7 @@ pip install -r requirements.txt
 # Run dispatch simulation
 python dispatch_logic.py
 ```
+WEBSITE ACCESS LINK https://smartcampus-run.netlify.app/
 
 ---
 
