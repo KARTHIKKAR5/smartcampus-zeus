@@ -1,6 +1,7 @@
 # 🚀 SmartCampus Zeus
 ### SC-02: The Last-Mile Meal — Campus Delivery & Logistics Engine
-**SRU Coding Club Hackathon**
+**SRU Coding Club UDHBHAVA Hackathon**
+https://smartcampus-run.netlify.app/
 
 ---
 
